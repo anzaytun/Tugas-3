@@ -1,0 +1,5 @@
+Bread|abc123|perempuan|cikarang|Jakarta
+M.Aldy Saputra|alu123|laki-laki|Jln.TamanSiswa|Yogyakartabread|123|Perempuan|cikarang|Jakarta
+bread|123|Perempuan|cikarang|Jakarta
+bread|abc123|Perempuan|cikarang|Jakarta
+bread|abc123|Perempuan|cikarang|Jakarta
